@@ -1,0 +1,55 @@
+h1 {margin-left: 0px;}
+.test1 {
+        background-color: cadetblue; height: 250px; text-align: center; font-size: 80px;
+        margin-left: -8px; margin-top: -107px;
+}
+.test2 {
+        font-size: 25px; font-weight: bold; text-align: center;
+        margin-left: -8px;
+}
+ul {
+    list-style-type: none; height: 100px; 
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(250, 34, 6, 0.836);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: rgb(238, 15, 15);
+  }
+
+  p {
+      text-align: center; font-size: 18px; margin: 0px; padding: 20px; height: 150px;
+
+}
+  .test3 {
+           background-color: gold; margin-left: -8px;
+  }
+
+  .test4 {
+        background-color: salmon; height: 400px; padding-left: 750px;
+        margin: -34px; width: 1190px;
+    }
+    h2 {
+        font-size: 40px; float: left; text-align: left;
+        margin-left: -700px; padding-right: -100px;
+    }
+    .car {padding-left: 0px;}
+    .car1 {
+            font-size: 25px; text-align: right; margin-top: -150px;
+    }
+    
